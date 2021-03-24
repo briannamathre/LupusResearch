@@ -1,0 +1,683 @@
+SNPS,MAPPED_GENE,DOWNSTREAM_GENE_ID,UPSTREAM_GENE_ID,SNP_GENE_IDS,CONTEXT,MAPPED_TRAIT,P-VALUE
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,4e-14
+rs12531711,TNPO3,,,ENSG00000064419,intron_variant,systemic lupus erythematosus,6e-13
+rs13277113,BLK,,,ENSG00000136573,intron_variant,systemic lupus erythematosus,2e-10
+rs729302,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs7460469,XKR6,,,ENSG00000171044,intron_variant,"age at onset, systemic lupus erythematosus",1e-08
+rs7300146,GLT1D1,,,ENSG00000151948,intron_variant,"age at onset, systemic lupus erythematosus",1e-08
+rs9275572,MTCO3P1 - AL662789.1,ENSG00000232080,ENSG00000237145,,intergenic_variant,systemic lupus erythematosus,5e-16
+rs2764208,AL139100.2 - SNRPC,ENSG00000124562,ENSG00000217130,,regulatory_region_variant,systemic lupus erythematosus,7e-06
+rs10946940,CD83P1 - RNU6-471P,ENSG00000206671,ENSG00000219738,,intergenic_variant,systemic lupus erythematosus,8e-09
+rs12565776,LAMC1 - LAMC2,ENSG00000058085,ENSG00000135862,,intergenic_variant,systemic lupus erythematosus,5e-06
+rs10911628,AL713852.1 - EDEM3,ENSG00000116406,ENSG00000285847,,intergenic_variant,systemic lupus erythematosus,2e-13
+rs12993006,TEX51 - RNU7-182P,ENSG00000238788,ENSG00000237524,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs4544377,RNU6-546P - AC073225.1,ENSG00000286679,ENSG00000206718,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,5e-09
+rs4684256,CNTN6 - RPL23AP38,ENSG00000184423,ENSG00000134115,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs558702,"C2, C2",,,"ENSG00000166278, ENSG00000231543",intron_variant,systemic lupus erythematosus,8.000000000000001e-21
+rs6946131,AC011228.3 - AC011228.2,ENSG00000286404,ENSG00000288525,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs4728142,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,7.000000000000001e-10
+rs10488631,AC025594.2 - TNPO3,ENSG00000064419,ENSG00000275106,,intergenic_variant,systemic lupus erythematosus,2e-13
+rs10857712,"MTG1, AL360181.3",,,"ENSG00000148824, ENSG00000254536",intron_variant,systemic lupus erythematosus,3e-06
+rs10466455,AL359999.1 - APIP,ENSG00000149089,ENSG00000270491,,intergenic_variant,systemic lupus erythematosus,2e-07
+rs11073328,FAM98B,,,ENSG00000171262,intron_variant,systemic lupus erythematosus,1e-14
+rs8023715,RN7SKP181 - LINC02253,ENSG00000259485,ENSG00000223120,,intergenic_variant,systemic lupus erythematosus,1e-08
+rs9888739,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,4.0000000000000004e-11
+rs11655550,MED1 - CDK12,ENSG00000167258,ENSG00000125686,,TF_binding_site_variant,systemic lupus erythematosus,7e-07
+rs6084875,AL133396.1 - RASSF2,ENSG00000101265,ENSG00000278595,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs11697848,KRT18P4 - RNU6-147P,ENSG00000206710,ENSG00000229222,,intergenic_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs2051549,"HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2",,,"ENSG00000232629, ENSG00000224305, ENSG00000228813, ENSG00000196610, ENSG00000229493, ENSG00000228254, ENSG00000226165",intron_variant,systemic lupus erythematosus,3e-22
+rs5029939,TNFAIP3,,,ENSG00000118503,intron_variant,systemic lupus erythematosus,2.9999999999999997e-12
+rs11101442,WDFY4,,,ENSG00000128815,intron_variant,systemic lupus erythematosus,3e-06
+rs17039212,AC009971.1 - RPL7P13,ENSG00000234253,ENSG00000282828,,intergenic_variant,systemic lupus erythematosus,9e-06
+rs12949531,COX10-AS1,,,ENSG00000236088,intron_variant,systemic lupus erythematosus,8e-06
+rs11150610,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,2e-06
+rs2618476,BLK,,,ENSG00000136573,intron_variant,systemic lupus erythematosus,2e-08
+rs2313132,AC131956.3 - AC131956.1,ENSG00000250034,ENSG00000287441,,intergenic_variant,systemic lupus erythematosus,8e-06
+rs3821236,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,8.000000000000001e-11
+rs1150754,"TNXB, TNXB, TNXB, TNXB, TNXB",,,"ENSG00000168477, ENSG00000206258, ENSG00000229353, ENSG00000233323, ENSG00000231608",intron_variant,systemic lupus erythematosus,5.999999999999999e-29
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,2.0000000000000002e-20
+rs10488631,AC025594.2 - TNPO3,ENSG00000064419,ENSG00000275106,,intergenic_variant,systemic lupus erythematosus,7.000000000000001e-18
+rs6695567,SLC1A7 - AL606760.4,ENSG00000277397,ENSG00000162383,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs12629106,AC117465.1 - LINC00578,ENSG00000228221,ENSG00000226782,,TF_binding_site_variant,systemic lupus erythematosus,4e-06
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,8e-06
+rs6049839,TMC2,,,ENSG00000149488,intron_variant,systemic lupus erythematosus,8e-06
+rs2736340,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,systemic lupus erythematosus,3e-07
+rs525410,LAMC2,,,ENSG00000058085,intron_variant,systemic lupus erythematosus,6e-07
+rs5754217,UBE2L3,,,ENSG00000185651,intron_variant,systemic lupus erythematosus,2e-06
+rs10737562,RNA5SP73 - LINC01701,ENSG00000232212,ENSG00000252553,,intergenic_variant,systemic lupus erythematosus,7e-06
+rs12531711,TNPO3,,,ENSG00000064419,intron_variant,systemic lupus erythematosus,6e-09
+rs918959,AC009478.1,,,ENSG00000225258,intron_variant,systemic lupus erythematosus,2e-06
+rs2187668,"HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1",,,"ENSG00000232062, ENSG00000206305, ENSG00000236418, ENSG00000228284, ENSG00000225890, ENSG00000196735",intron_variant,systemic lupus erythematosus,5.999999999999999e-28
+rs9888739,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,1e-15
+rs4956211,RCC2P8 - COL25A1,ENSG00000188517,ENSG00000250185,,intergenic_variant,systemic lupus erythematosus,1e-06
+rs2431697,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,2e-06
+rs4963128,"PHRF1, PHRF1",,,"ENSG00000070047, ENSG00000274780",intron_variant,systemic lupus erythematosus,4e-06
+rs2301271,"HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2, HLA-DQB2",,,"ENSG00000232629, ENSG00000224305, ENSG00000228813, ENSG00000196610, ENSG00000229493, ENSG00000228254, ENSG00000226165",intron_variant,systemic lupus erythematosus,2e-12
+rs2669010,AC107032.2,,,ENSG00000257526,intron_variant,systemic lupus erythematosus,5e-06
+rs3130320,TSBP1-AS1,,,ENSG00000225914,intron_variant,systemic lupus erythematosus,3e-06
+rs1463525,"NAALADL2-AS2, NAALADL2",,,"ENSG00000226779, ENSG00000177694",intron_variant,systemic lupus erythematosus,8e-06
+rs2647012,HLA-DQB1 - MTCO3P1,ENSG00000237145,ENSG00000231286,,intergenic_variant,systemic lupus erythematosus,8e-06
+rs7329174,ELF1,,,ENSG00000120690,intron_variant,systemic lupus erythematosus,1e-08
+rs1128334,ETS1,,,ENSG00000134954,3_prime_UTR_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs13277113,BLK,,,ENSG00000136573,intron_variant,systemic lupus erythematosus,1e-10
+rs979233,AC108099.1 - GHR,ENSG00000112964,ENSG00000260786,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs12141391,"NEGR1, NEGR1-IT1",,,"ENSG00000172260, ENSG00000228853",intron_variant,systemic lupus erythematosus,7e-06
+rs10488631,AC025594.2 - TNPO3,ENSG00000064419,ENSG00000275106,,intergenic_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,9e-14
+rs2187668,"HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1",,,"ENSG00000232062, ENSG00000206305, ENSG00000236418, ENSG00000228284, ENSG00000225890, ENSG00000196735",intron_variant,systemic lupus erythematosus,3e-21
+rs17083844,AC091691.3,,,ENSG00000287693,intron_variant,systemic lupus erythematosus,6e-06
+rs11243676,NTNG2,,,ENSG00000196358,intron_variant,systemic lupus erythematosus,3e-06
+rs7582694,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,4e-07
+rs1478897,BLK,,,ENSG00000136573,intron_variant,systemic lupus erythematosus,8e-06
+rs2187668,"HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1, HLA-DQA1",,,"ENSG00000232062, ENSG00000206305, ENSG00000236418, ENSG00000228284, ENSG00000225890, ENSG00000196735",intron_variant,systemic lupus erythematosus,1e-09
+rs3129716,HLA-DQB1 - MTCO3P1,ENSG00000237145,ENSG00000231286,,TF_binding_site_variant,systemic lupus erythematosus,4e-09
+rs1150753,"TNXB, TNXB, TNXB, TNXB, TNXB",,,"ENSG00000168477, ENSG00000206258, ENSG00000229353, ENSG00000233323, ENSG00000231608",intron_variant,systemic lupus erythematosus,6e-09
+rs3131379,"MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1",,,"ENSG00000227314, ENSG00000237333, ENSG00000204410, ENSG00000230961, ENSG00000235569, ENSG00000233345, ENSG00000230293, ENSG00000235222, ENSG00000254405, ENSG00000255419, ENSG00000255152, ENSG00000264619, ENSG00000266442, ENSG00000266027",intron_variant,systemic lupus erythematosus,8e-08
+rs967616,RNU6ATAC13P - AC034159.2,ENSG00000286580,ENSG00000251961,,intergenic_variant,"systemic lupus erythematosus, lupus nephritis",2e-06
+rs752010,"AC119676.1, HIVEP3",,,"ENSG00000284895, ENSG00000127124",intron_variant,"systemic lupus erythematosus, lupus nephritis",2e-06
+rs2786111,CRB1,,,ENSG00000134376,intron_variant,"systemic lupus erythematosus, lupus nephritis",5e-06
+rs1364989,AC058822.1,,,ENSG00000282278,intron_variant,"systemic lupus erythematosus, lupus nephritis",5e-07
+rs7773456,LNC-LBCS,,,ENSG00000228412,intron_variant,"systemic lupus erythematosus, lupus nephritis",7e-07
+rs7834765,AC068413.1 - RPL35AP19,ENSG00000239872,ENSG00000253619,,regulatory_region_variant,"systemic lupus erythematosus, lupus nephritis",1e-06
+rs601162,AL353684.1 - AL354676.1,ENSG00000229834,ENSG00000277646,,intergenic_variant,"systemic lupus erythematosus, lupus nephritis",1e-06
+rs2478118,PRPF18,,,ENSG00000165630,intron_variant,"systemic lupus erythematosus, lupus nephritis",5e-06
+rs6538678,"CCDC38, SNRPF",,,"ENSG00000165972, ENSG00000139343",intron_variant,"systemic lupus erythematosus, lupus nephritis",2e-06
+rs8012283,NIN,,,ENSG00000100503,intron_variant,"systemic lupus erythematosus, lupus nephritis",3e-07
+rs274068,SLC5A11,,,ENSG00000158865,intron_variant,"systemic lupus erythematosus, lupus nephritis",5e-07
+rs4901847,ARMH4,,,ENSG00000139971,intron_variant,"systemic lupus erythematosus, lupus nephritis",2e-06
+rs4850410,ANKRD44,,,ENSG00000065413,intron_variant,"interferon alpha measurement, systemic lupus erythematosus",1e-06
+rs7897633,PRKG1,,,ENSG00000185532,intron_variant,"interferon alpha measurement, systemic lupus erythematosus",3e-08
+rs1028488,LINC01624 - DLL1,ENSG00000198719,ENSG00000227508,,intergenic_variant,"interferon alpha measurement, systemic lupus erythematosus",2e-07
+rs6850606,AC096734.1 - RN7SKP82,ENSG00000252595,ENSG00000251517,,intergenic_variant,"interferon alpha measurement, systemic lupus erythematosus",2e-06
+rs7411387,CHIA,,,ENSG00000134216,intron_variant,"interferon alpha measurement, systemic lupus erythematosus",3e-06
+rs3934007,DRD2 - TMPRSS5,ENSG00000166682,ENSG00000149295,,regulatory_region_variant,"interferon alpha measurement, systemic lupus erythematosus",3e-06
+rs1429411,"ANKRD44-IT1, ANKRD44",,,"ENSG00000236977, ENSG00000065413",intron_variant,"interferon alpha measurement, systemic lupus erythematosus",5e-06
+rs11057864,SCARB1,,,ENSG00000073060,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",6e-07
+rs7692514,LINC02835 - EPHA5,ENSG00000145242,ENSG00000285711,,intergenic_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",9e-07
+rs1108131,CAMK1D,,,ENSG00000183049,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",9e-07
+rs958476,BARX2,,,ENSG00000043039,3_prime_UTR_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",1e-06
+rs8009420,"LINC02331, AL365295.1",,,"ENSG00000235269, ENSG00000237356",intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",2e-06
+rs6696619,LINC01739,,,ENSG00000229537,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",2e-06
+rs12589674,"AL365295.1, LINC02331",,,"ENSG00000237356, ENSG00000235269",intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",2e-06
+rs710987,LINC01019,,,ENSG00000248118,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",2e-06
+rs1534618,AC087863.2,,,ENSG00000256149,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",4e-06
+rs10992211,AL161629.2 - AL353649.1,ENSG00000279503,ENSG00000278382,,intergenic_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",5e-06
+rs10954650,HIPK2,,,ENSG00000064393,intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",6e-06
+rs10142203,TRIM9 - TMX1,ENSG00000139921,ENSG00000100505,,intergenic_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",7e-06
+rs4149228,"EPHX1, AL591895.1",,,"ENSG00000143819, ENSG00000242861",intron_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",7e-06
+rs6697139,RPL31P11 - AL359541.1,ENSG00000199595,ENSG00000213075,,intergenic_variant,"response to cyclophosphamide, systemic lupus erythematosus, lupus nephritis",3e-08
+rs494003,AP5B1,,,ENSG00000254470,3_prime_UTR_variant,systemic lupus erythematosus,2e-06
+rs34889541,AL157402.1 - PTPRC,ENSG00000081237,ENSG00000223881,,intergenic_variant,systemic lupus erythematosus,3e-10
+rs2297550,SRGAP2 - IKBKE,ENSG00000263528,ENSG00000266028,,regulatory_region_variant,systemic lupus erythematosus,2e-07
+rs7579944,H3P5 - LBH,ENSG00000213626,ENSG00000231712,,intergenic_variant,systemic lupus erythematosus,6e-06
+rs17321999,LBH,,,ENSG00000213626,intron_variant,systemic lupus erythematosus,1e-08
+rs6762714,LPP,,,ENSG00000145012,intron_variant,systemic lupus erythematosus,6e-07
+rs597325,BACH2,,,ENSG00000112182,intron_variant,systemic lupus erythematosus,1e-10
+rs73135369,GTF2IRD1,,,ENSG00000006704,intron_variant,systemic lupus erythematosus,6.999999999999999e-13
+rs1887428,JAK2,,,ENSG00000096968,5_prime_UTR_variant,systemic lupus erythematosus,4e-14
+rs1170426,ZFP90,,,ENSG00000184939,intron_variant,systemic lupus erythematosus,4e-08
+rs34889541,AL157402.1 - PTPRC,ENSG00000081237,ENSG00000223881,,intergenic_variant,systemic lupus erythematosus,2e-12
+rs2297550,SRGAP2 - IKBKE,ENSG00000263528,ENSG00000266028,,regulatory_region_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs7579944,H3P5 - LBH,ENSG00000213626,ENSG00000231712,,intergenic_variant,systemic lupus erythematosus,1e-09
+rs17321999,LBH,,,ENSG00000213626,intron_variant,systemic lupus erythematosus,2e-16
+rs6762714,LPP,,,ENSG00000145012,intron_variant,systemic lupus erythematosus,4e-15
+rs17603856,ATXN1,,,ENSG00000124788,intron_variant,systemic lupus erythematosus,2.9999999999999997e-12
+rs597325,BACH2,,,ENSG00000112182,intron_variant,systemic lupus erythematosus,4e-12
+rs73135369,GTF2IRD1,,,ENSG00000006704,intron_variant,systemic lupus erythematosus,9e-14
+rs1887428,JAK2,,,ENSG00000096968,5_prime_UTR_variant,systemic lupus erythematosus,2e-17
+rs494003,AP5B1,,,ENSG00000254470,3_prime_UTR_variant,systemic lupus erythematosus,6e-09
+rs1170426,ZFP90,,,ENSG00000184939,intron_variant,systemic lupus erythematosus,2e-08
+rs12753920,AC104836.1 - AL663109.1,ENSG00000226773,ENSG00000273487,,intergenic_variant,systemic lupus erythematosus,6e-07
+rs427221,LINC01967,,,ENSG00000235493,intron_variant,systemic lupus erythematosus,5e-06
+rs9402743,LINC00271,,,ENSG00000231028,intron_variant,systemic lupus erythematosus,5e-06
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,1e-65
+rs2431098,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,2e-15
+rs268134,SPRED2,,,ENSG00000198369,intron_variant,systemic lupus erythematosus,2e-07
+rs2111485,FAP - IFIH1,ENSG00000115267,ENSG00000078098,,regulatory_region_variant,systemic lupus erythematosus,3e-06
+rs10048743,IKZF2,,,ENSG00000030419,intron_variant,systemic lupus erythematosus,2e-08
+rs35000415,IRF5,,,ENSG00000128604,intron_variant,systemic lupus erythematosus,2e-45
+rs2736332,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,5e-18
+rs4388254,AC008608.1 - TCF7,ENSG00000081059,ENSG00000271128,,intergenic_variant,systemic lupus erythematosus,4e-10
+rs9652601,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,4e-07
+rs13332649,AC092723.5,,,ENSG00000285163,intron_variant,systemic lupus erythematosus,5e-17
+rs2941509,IKZF3,,,ENSG00000161405,3_prime_UTR_variant,systemic lupus erythematosus,4e-06
+rs9462027,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,1e-10
+rs4917014,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,regulatory_region_variant,systemic lupus erythematosus,3e-06
+rs7329174,ELF1,,,ENSG00000120690,intron_variant,systemic lupus erythematosus,3e-06
+rs17321999,LBH,,,ENSG00000213626,intron_variant,systemic lupus erythematosus,2e-09
+rs6762714,LPP,,,ENSG00000145012,intron_variant,systemic lupus erythematosus,8e-10
+rs17603856,ATXN1,,,ENSG00000124788,intron_variant,systemic lupus erythematosus,3e-08
+rs1887428,JAK2,,,ENSG00000096968,5_prime_UTR_variant,systemic lupus erythematosus,1e-06
+rs2736332,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,3e-14
+rs10912578,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,2e-15
+rs7444,UBE2L3,,,ENSG00000185651,3_prime_UTR_variant,systemic lupus erythematosus,2e-06
+rs6889239,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,2e-18
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,4e-12
+rs9311676,PDHB - AC116036.2,ENSG00000272360,ENSG00000168291,,intergenic_variant,systemic lupus erythematosus,5e-06
+rs564799,IL12A-AS1,,,ENSG00000244040,intron_variant,systemic lupus erythematosus,1e-06
+rs4948496,ARID5B,,,ENSG00000150347,intron_variant,systemic lupus erythematosus,1e-06
+rs387619,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,intergenic_variant,systemic lupus erythematosus,4.0000000000000004e-11
+rs7941765,AP001122.1,,,ENSG00000245008,intron_variant,systemic lupus erythematosus,1e-06
+rs10774625,ATXN2,,,ENSG00000204842,intron_variant,systemic lupus erythematosus,9e-08
+rs2289583,SCAMP5,,,ENSG00000198794,intron_variant,systemic lupus erythematosus,9e-09
+rs7444,UBE2L3,,,ENSG00000185651,3_prime_UTR_variant,systemic lupus erythematosus,1e-13
+rs10912578,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,3.9999999999999997e-22
+rs6889239,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,3e-06
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,3e-06
+rs13385731,RASGRP3,,,ENSG00000152689,intron_variant,systemic lupus erythematosus,4e-06
+rs10753074,AL645568.2 - AL645568.1,ENSG00000203739,ENSG00000231615,,intergenic_variant,systemic lupus erythematosus,5.9999999999999995e-12
+rs11085727,TYK2,,,ENSG00000105397,intron_variant,systemic lupus erythematosus,1e-13
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,1.9999999999999995e-76
+rs820077,ANKS1A,,,ENSG00000064999,intron_variant,systemic lupus erythematosus,1e-08
+rs58688157,"CDHR5, CDHR5",,,"ENSG00000099834, ENSG00000273572",5_prime_UTR_variant,systemic lupus erythematosus,5e-13
+rs7200786,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,2e-08
+rs12531540,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,3e-08
+rs3024493,IL10,,,ENSG00000136634,intron_variant,systemic lupus erythematosus,6e-08
+rs2532871,NR0B1 - CXorf21,ENSG00000120280,ENSG00000169297,,regulatory_region_variant,systemic lupus erythematosus,7e-08
+rs143123127,IKZF3,,,ENSG00000161405,intron_variant,systemic lupus erythematosus,6e-09
+rs58721818,AL591468.1 - LINC02528,ENSG00000226004,ENSG00000287393,,regulatory_region_variant,systemic lupus erythematosus,3e-19
+rs114090659,NAPGP2 - MUC21,ENSG00000231350,ENSG00000275906,,intergenic_variant,systemic lupus erythematosus,5.999999999999998e-92
+rs6889239,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,4.0000000000000004e-24
+rs268134,SPRED2,,,ENSG00000198369,intron_variant,systemic lupus erythematosus,1e-10
+rs10048743,IKZF2,,,ENSG00000030419,intron_variant,systemic lupus erythematosus,2e-10
+rs597808,ATXN2,,,ENSG00000204842,intron_variant,systemic lupus erythematosus,6e-10
+rs2289583,SCAMP5,,,ENSG00000198794,intron_variant,systemic lupus erythematosus,6e-10
+rs4388254,AC008608.1 - TCF7,ENSG00000081059,ENSG00000271128,,intergenic_variant,systemic lupus erythematosus,7.000000000000001e-10
+rs7090925,AC025946.1,,,ENSG00000226990,intron_variant,systemic lupus erythematosus,9e-08
+rs6671847,FCGR2A,,,ENSG00000143226,intron_variant,systemic lupus erythematosus,1e-12
+rs74290525,"SLC44A4, SLC44A4",,,"ENSG00000204385, ENSG00000228263",intron_variant,systemic lupus erythematosus,1e-12
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,5e-14
+rs6932056,AL591468.1 - LINC02528,ENSG00000226004,ENSG00000287393,,intergenic_variant,systemic lupus erythematosus,1.9999999999999997e-31
+rs849142,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,9e-11
+rs4917014,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,regulatory_region_variant,systemic lupus erythematosus,6e-14
+rs10488631,AC025594.2 - TNPO3,ENSG00000064419,ENSG00000275106,,intergenic_variant,systemic lupus erythematosus,8.999999999999997e-110
+rs2736340,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,systemic lupus erythematosus,5.999999999999999e-20
+rs2663052,WDFY4,,,ENSG00000128815,intron_variant,systemic lupus erythematosus,5e-09
+rs4948496,ARID5B,,,ENSG00000150347,intron_variant,systemic lupus erythematosus,1e-10
+rs2732549,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,regulatory_region_variant,systemic lupus erythematosus,1e-23
+rs3794060,NADSYN1,,,ENSG00000172890,3_prime_UTR_variant,systemic lupus erythematosus,1.0000000000000001e-20
+rs7941765,AP001122.1,,,ENSG00000245008,intron_variant,systemic lupus erythematosus,1e-10
+rs10774625,ATXN2,,,ENSG00000204842,intron_variant,systemic lupus erythematosus,4e-09
+rs4902562,RAD51B,,,ENSG00000182185,intron_variant,systemic lupus erythematosus,6e-10
+rs2289583,SCAMP5,,,ENSG00000198794,intron_variant,systemic lupus erythematosus,6e-15
+rs9652601,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,6.999999999999999e-17
+rs34572943,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,2.999999999999999e-76
+rs11644034,AC092723.5,,,ENSG00000285163,intron_variant,systemic lupus erythematosus,1e-17
+rs2941509,IKZF3,,,ENSG00000161405,3_prime_UTR_variant,systemic lupus erythematosus,8e-09
+rs7444,UBE2L3,,,ENSG00000185651,3_prime_UTR_variant,systemic lupus erythematosus,1.9999999999999999e-22
+rs494003,AP5B1,,,ENSG00000254470,3_prime_UTR_variant,systemic lupus erythematosus,2e-06
+rs11908000,MIR8062 - RN7SL547P,ENSG00000240584,ENSG00000278159,,regulatory_region_variant,systemic lupus erythematosus,2e-06
+rs9402743,LINC00271,,,ENSG00000231028,intron_variant,systemic lupus erythematosus,5e-06
+rs704840,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,3e-19
+rs3024505,AL591846.1 - IL10,ENSG00000136634,ENSG00000199349,,intergenic_variant,systemic lupus erythematosus,5e-09
+rs9782955,LYST,,,ENSG00000143669,intron_variant,systemic lupus erythematosus,1e-09
+rs2111485,FAP - IFIH1,ENSG00000115267,ENSG00000078098,,regulatory_region_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,5.999999999999999e-122
+rs3768792,"AC093865.1, IKZF2",,,"ENSG00000273118, ENSG00000030419",3_prime_UTR_variant,systemic lupus erythematosus,1e-13
+rs9311676,PDHB - AC116036.2,ENSG00000272360,ENSG00000168291,,intergenic_variant,systemic lupus erythematosus,3e-14
+rs564799,IL12A-AS1,,,ENSG00000244040,intron_variant,systemic lupus erythematosus,2e-09
+rs10028805,BANK1,,,ENSG00000153064,intron_variant,systemic lupus erythematosus,4e-17
+rs7726414,AC008608.1 - TCF7,ENSG00000081059,ENSG00000271128,,intergenic_variant,systemic lupus erythematosus,4e-16
+rs10036748,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,1e-45
+rs2431697,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,8e-28
+rs9462027,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,8e-09
+rs1874791,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,3e-07
+rs6914831,AHI1,,,ENSG00000135541,3_prime_UTR_variant,systemic lupus erythematosus,4e-07
+rs912784,LCP1,,,ENSG00000136167,intron_variant,systemic lupus erythematosus,6e-07
+rs2855772,KIT,,,ENSG00000157404,intron_variant,systemic lupus erythematosus,1e-15
+rs13116227,AC105345.1 - GPR78,ENSG00000155269,ENSG00000205959,,regulatory_region_variant,systemic lupus erythematosus,3e-11
+rs10018951,TRAPPC11,,,ENSG00000168538,intron_variant,systemic lupus erythematosus,1e-14
+rs4660116,LYST,,,ENSG00000143669,intron_variant,systemic lupus erythematosus,2e-07
+rs10995092,RTKN2,,,ENSG00000182010,intron_variant,systemic lupus erythematosus,2e-07
+rs11185603,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,regulatory_region_variant,systemic lupus erythematosus,4e-07
+rs387619,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,intergenic_variant,systemic lupus erythematosus,3e-13
+rs3747093,YDJC - CCDC116,ENSG00000161180,ENSG00000161179,,TF_binding_site_variant,systemic lupus erythematosus,3e-13
+rs7941765,AP001122.1,,,ENSG00000245008,intron_variant,systemic lupus erythematosus,2e-08
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,5e-14
+rs6679677,PHTF1 - RSBN1,ENSG00000081019,ENSG00000116793,,intergenic_variant,systemic lupus erythematosus,1e-15
+rs6736175,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,9.000000000000001e-17
+rs13332649,AC092723.5,,,ENSG00000285163,intron_variant,systemic lupus erythematosus,2e-18
+rs2431098,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,4e-18
+rs11059919,SLC15A4,,,ENSG00000139370,intron_variant,systemic lupus erythematosus,8e-09
+rs10912578,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,4e-19
+rs2736332,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,1.9999999999999999e-22
+rs114092478,MTCO3P1 - AL662789.1,ENSG00000232080,ENSG00000237145,,intergenic_variant,systemic lupus erythematosus,2.9999999999999993e-93
+rs3757387,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,regulatory_region_variant,systemic lupus erythematosus,1e-48
+rs35472514,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,4e-53
+rs4902562,RAD51B,,,ENSG00000182185,intron_variant,systemic lupus erythematosus,2e-06
+rs79404002,GLTPD2 - PSMB6,ENSG00000142507,ENSG00000182327,,intergenic_variant,systemic lupus erythematosus,3e-06
+rs35000415,IRF5,,,ENSG00000128604,intron_variant,systemic lupus erythematosus,1e-60
+rs1267499,AL138720.1,,,ENSG00000234261,intron_variant,systemic lupus erythematosus,8e-08
+rs77583790,IL12A-AS1,,,ENSG00000244040,intron_variant,systemic lupus erythematosus,6e-11
+rs9398235,DDO,,,ENSG00000203797,intron_variant,systemic lupus erythematosus,1e-07
+rs6920220,AL356234.2,,,ENSG00000230533,intron_variant,systemic lupus erythematosus,4e-07
+rs2269368,ARHGAP4,,,ENSG00000089820,intron_variant,systemic lupus erythematosus,8e-07
+rs2431099,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,2e-06
+rs5754217,UBE2L3,,,ENSG00000185651,intron_variant,systemic lupus erythematosus,2e-06
+rs7708392,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,4e-13
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,7.000000000000001e-10
+rs849142,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,2e-09
+rs3024505,AL591846.1 - IL10,ENSG00000136634,ENSG00000199349,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs10911363,"NCF2, SMG7",,,"ENSG00000116701, ENSG00000116698",intron_variant,systemic lupus erythematosus,1e-07
+rs12444486,AC092723.5 - AC092723.4,ENSG00000285040,ENSG00000285163,,intergenic_variant,systemic lupus erythematosus,2e-07
+rs1874791,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,3e-07
+rs9782955,LYST,,,ENSG00000143669,intron_variant,systemic lupus erythematosus,5e-07
+rs7683537,CENPU,,,ENSG00000151725,intron_variant,systemic lupus erythematosus,8e-07
+rs497273,SPPL3,,,ENSG00000157837,intron_variant,systemic lupus erythematosus,8e-07
+rs1861525,CYCS,,,ENSG00000172115,3_prime_UTR_variant,systemic lupus erythematosus,2e-06
+rs921916,SPATA48 - AC020743.2,ENSG00000231681,ENSG00000164500,,regulatory_region_variant,systemic lupus erythematosus,2e-06
+rs7333671,KLF12,,,ENSG00000118922,intron_variant,systemic lupus erythematosus,2e-06
+rs12992463,AC096570.1,,,ENSG00000228999,intron_variant,systemic lupus erythematosus,3e-06
+rs12620999,AC107079.1 - AC112715.1,ENSG00000224132,ENSG00000224844,,regulatory_region_variant,systemic lupus erythematosus,3e-06
+rs10742326,AL359999.1 - APIP,ENSG00000149089,ENSG00000270491,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs4766921,AC087863.2 - SRRM4,ENSG00000139767,ENSG00000256149,,intergenic_variant,systemic lupus erythematosus,5e-06
+rs11951576,TENT4A,,,ENSG00000112941,intron_variant,systemic lupus erythematosus,5e-06
+rs6438700,CD86 - AC068630.1,ENSG00000287977,ENSG00000114013,,intergenic_variant,systemic lupus erythematosus,6e-06
+rs6486730,TMEM132C - SLC15A4,ENSG00000139370,ENSG00000181234,,regulatory_region_variant,systemic lupus erythematosus,7e-06
+rs4748857,C10orf67,,,ENSG00000179133,intron_variant,systemic lupus erythematosus,7e-06
+rs3914167,"C9, DAB2",,,"ENSG00000113600, ENSG00000153071",intron_variant,systemic lupus erythematosus,8e-06
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,1e-41
+rs2070197,IRF5,,,ENSG00000128604,3_prime_UTR_variant,systemic lupus erythematosus,5.999999999999999e-24
+rs11860650,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,2.0000000000000002e-20
+rs2736340,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,systemic lupus erythematosus,8e-17
+rs5029937,TNFAIP3,,,ENSG00000118503,intron_variant,systemic lupus erythematosus,5e-13
+rs4963128,"PHRF1, PHRF1",,,"ENSG00000070047, ENSG00000274780",intron_variant,systemic lupus erythematosus,5e-09
+rs2205960,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,6e-09
+rs1780813,SMYD3,,,ENSG00000185420,intron_variant,systemic lupus erythematosus,4e-08
+rs55849330,ST8SIA4,,,ENSG00000113532,intron_variant,systemic lupus erythematosus,5e-08
+rs150518861,LIMK1 - EIF4H,ENSG00000106682,ENSG00000106683,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs114038709,AC003070.2 - ARHGAP27,ENSG00000159314,ENSG00000267446,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs36023980,"AC011933.4, GRB2",,,"ENSG00000265987, ENSG00000177885",intron_variant,systemic lupus erythematosus,5e-09
+rs9630991,AC108047.1,,,ENSG00000233654,intron_variant,systemic lupus erythematosus,7e-09
+rs12148050,TRAF3,,,ENSG00000131323,intron_variant,systemic lupus erythematosus,1e-06
+rs9899849,AC026954.1,,,ENSG00000224647,intron_variant,systemic lupus erythematosus,1e-08
+rs13344313,LRRC25 - SSBP4,ENSG00000130511,ENSG00000175489,,regulatory_region_variant,systemic lupus erythematosus,2e-06
+rs10999979,CDH23,,,ENSG00000107736,intron_variant,systemic lupus erythematosus,5e-08
+rs11264750,FCRL5,,,ENSG00000143297,intron_variant,systemic lupus erythematosus,9.000000000000001e-13
+rs11679484,PLCL1,,,ENSG00000115896,intron_variant,systemic lupus erythematosus,6e-08
+rs12148050,TRAF3,,,ENSG00000131323,intron_variant,systemic lupus erythematosus,3e-08
+rs13260060,NCOA2,,,ENSG00000140396,intron_variant,systemic lupus erythematosus,8e-08
+rs13344313,LRRC25 - SSBP4,ENSG00000130511,ENSG00000175489,,regulatory_region_variant,systemic lupus erythematosus,1e-10
+rs1405209,"STX17-AS1, NR4A3",,,"ENSG00000255145, ENSG00000119508",intron_variant,systemic lupus erythematosus,2e-08
+rs1547624,AL390957.1,,,ENSG00000285280,intron_variant,systemic lupus erythematosus,2e-07
+rs1885889,AL136961.1 - TM9SF2,ENSG00000125304,ENSG00000285448,,intergenic_variant,systemic lupus erythematosus,2e-13
+rs2381401,ARHGAP15,,,ENSG00000075884,intron_variant,systemic lupus erythematosus,2e-09
+rs2384991,IQCN - JUND,ENSG00000130522,ENSG00000130518,,intergenic_variant,systemic lupus erythematosus,5e-08
+rs28411034,MTF1,,,ENSG00000188786,3_prime_UTR_variant,systemic lupus erythematosus,2e-10
+rs3087243,CTLA4 - ICOS,ENSG00000163600,ENSG00000163599,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs3760667,SLC6A16,,,ENSG00000063127,intron_variant,systemic lupus erythematosus,2e-09
+rs3795310,RERE,,,ENSG00000142599,intron_variant,systemic lupus erythematosus,3e-08
+rs28411034,MTF1,,,ENSG00000188786,3_prime_UTR_variant,systemic lupus erythematosus,6e-06
+rs11264750,FCRL5,,,ENSG00000143297,intron_variant,systemic lupus erythematosus,2e-12
+rs12132445,BX284613.2,,,ENSG00000231424,intron_variant,systemic lupus erythematosus,7e-08
+rs1547624,AL390957.1,,,ENSG00000285280,intron_variant,systemic lupus erythematosus,5e-08
+rs2381401,ARHGAP15,,,ENSG00000075884,intron_variant,systemic lupus erythematosus,1e-07
+rs9630991,AC108047.1,,,ENSG00000233654,intron_variant,systemic lupus erythematosus,3e-06
+rs3087243,CTLA4 - ICOS,ENSG00000163600,ENSG00000163599,,intergenic_variant,systemic lupus erythematosus,6e-06
+rs438613,LINC01967,,,ENSG00000235493,intron_variant,systemic lupus erythematosus,6e-08
+rs6927090,AL035696.1 - AL365272.1,ENSG00000287265,ENSG00000205653,,regulatory_region_variant,systemic lupus erythematosus,3e-10
+rs9387400,DSE,,,ENSG00000111817,intron_variant,systemic lupus erythematosus,3e-08
+rs13260060,NCOA2,,,ENSG00000140396,intron_variant,systemic lupus erythematosus,2e-08
+rs7815944,LINC00824,,,ENSG00000254275,intron_variant,systemic lupus erythematosus,2e-09
+rs4745876,"AC067752.1, AC024598.1",,,"ENSG00000285551, ENSG00000285837",intron_variant,systemic lupus erythematosus,1e-06
+rs10999979,CDH23,,,ENSG00000107736,intron_variant,systemic lupus erythematosus,1e-07
+rs76725306,RCBTB1 - AL135901.1,ENSG00000176882,ENSG00000136144,,intergenic_variant,systemic lupus erythematosus,1e-06
+rs1885889,AL136961.1 - TM9SF2,ENSG00000125304,ENSG00000285448,,intergenic_variant,systemic lupus erythematosus,8e-10
+rs3760667,SLC6A16,,,ENSG00000063127,intron_variant,systemic lupus erythematosus,1e-06
+rs3795310,RERE,,,ENSG00000142599,intron_variant,systemic lupus erythematosus,8e-06
+rs28411034,MTF1,,,ENSG00000188786,3_prime_UTR_variant,systemic lupus erythematosus,6e-06
+rs6702599,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,2e-08
+rs438613,LINC01967,,,ENSG00000235493,intron_variant,systemic lupus erythematosus,1e-08
+rs4690055,TNIP2,,,ENSG00000168884,intron_variant,systemic lupus erythematosus,5e-08
+rs4697651,AC084048.1 - LINC02498,ENSG00000283083,ENSG00000249334,,intergenic_variant,systemic lupus erythematosus,6e-08
+rs4745876,"AC067752.1, AC024598.1",,,"ENSG00000285551, ENSG00000285837",intron_variant,systemic lupus erythematosus,4e-08
+rs4978037,IFNA17 - IFNWP5,ENSG00000232138,ENSG00000234829,,intergenic_variant,systemic lupus erythematosus,6e-08
+rs549669428,RABGAP1L,,,ENSG00000152061,intron_variant,systemic lupus erythematosus,5e-08
+rs6074813,AL049634.2,,,ENSG00000260861,intron_variant,systemic lupus erythematosus,3e-08
+rs6702599,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,3e-09
+rs6871748,IL7R - AC112204.3,ENSG00000279737,ENSG00000168685,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs76725306,RCBTB1 - AL135901.1,ENSG00000176882,ENSG00000136144,,intergenic_variant,systemic lupus erythematosus,4e-08
+rs7815944,LINC00824,,,ENSG00000254275,intron_variant,systemic lupus erythematosus,2e-09
+rs869310,AC046168.1 - AC046168.2,ENSG00000259420,ENSG00000259362,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs9387400,DSE,,,ENSG00000111817,intron_variant,systemic lupus erythematosus,6e-06
+rs9630991,AC108047.1,,,ENSG00000233654,intron_variant,systemic lupus erythematosus,1e-13
+rs340630,AFF1,,,ENSG00000172493,intron_variant,systemic lupus erythematosus,8e-09
+rs956237,LEF1,,,ENSG00000138795,intron_variant,systemic lupus erythematosus,2e-06
+rs2205960,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,3e-32
+rs10036748,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,2e-09
+rs4917014,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,regulatory_region_variant,systemic lupus erythematosus,3e-23
+rs7812879,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,2.0000000000000002e-24
+rs6590330,LINC02098 - ETS1,ENSG00000134954,ENSG00000272575,,intergenic_variant,systemic lupus erythematosus,2e-25
+rs131654,UBE2L3,,,ENSG00000185651,intron_variant,systemic lupus erythematosus,1e-16
+rs9271100,HLA-DRB1 - HLA-DQA1,ENSG00000196735,ENSG00000206240,,intron_variant,systemic lupus erythematosus,1e-12
+rs4728142,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,8e-19
+rs13385731,RASGRP3,,,ENSG00000152689,intron_variant,systemic lupus erythematosus,1e-15
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,5e-42
+rs548234,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,5.0000000000000005e-12
+rs1913517,"AC060234.3, WDFY4, LRRC18",,,"ENSG00000241577, ENSG00000128815, ENSG00000165383",intron_variant,systemic lupus erythematosus,7e-12
+rs4639966,AP002954.1,,,ENSG00000255422,intron_variant,systemic lupus erythematosus,1e-16
+rs1385374,SLC15A4,,,ENSG00000139370,intron_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs7197475,AC093249.1 - PRR14,ENSG00000156858,ENSG00000260113,,intergenic_variant,systemic lupus erythematosus,3e-08
+rs1167796,HIP1,,,ENSG00000127946,intron_variant,systemic lupus erythematosus,2e-08
+rs6445975,PXK,,,ENSG00000168297,intron_variant,systemic lupus erythematosus,7e-09
+rs10798269,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs4963128,"PHRF1, PHRF1",,,"ENSG00000070047, ENSG00000274780",intron_variant,systemic lupus erythematosus,3e-10
+rs9888739,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,2e-23
+rs3131379,"MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1, MSH5-SAPCD1",,,"ENSG00000227314, ENSG00000237333, ENSG00000204410, ENSG00000230961, ENSG00000235569, ENSG00000233345, ENSG00000230293, ENSG00000235222, ENSG00000254405, ENSG00000255419, ENSG00000255152, ENSG00000264619, ENSG00000266442, ENSG00000266027",intron_variant,systemic lupus erythematosus,2e-52
+rs12537284,AC018639.1 - AC011005.2,ENSG00000241102,ENSG00000242162,,intergenic_variant,systemic lupus erythematosus,4e-19
+rs2222631,CD80,,,ENSG00000121594,intron_variant,systemic lupus erythematosus,5e-08
+rs4916342,AL645568.2 - AL645568.1,ENSG00000203739,ENSG00000231615,,intergenic_variant,systemic lupus erythematosus,8e-09
+rs2267828,GTF2IRD1,,,ENSG00000006704,intron_variant,systemic lupus erythematosus,6e-08
+rs11235667,FCHSD2 - AP002761.2,ENSG00000256568,ENSG00000137478,,intergenic_variant,systemic lupus erythematosus,7e-11
+rs1048257,AHNAK2,,,ENSG00000185567,3_prime_UTR_variant,systemic lupus erythematosus,9e-07
+rs76413021,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,regulatory_region_variant,systemic lupus erythematosus,3e-13
+rs12612769,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,2e-19
+rs11185602,AC020743.2,,,ENSG00000231681,intron_variant,systemic lupus erythematosus,2e-16
+rs113478424,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,4e-12
+rs2736345,BLK,,,ENSG00000136573,intron_variant,systemic lupus erythematosus,8.000000000000001e-11
+rs13385731,RASGRP3,,,ENSG00000152689,intron_variant,systemic lupus erythematosus,1e-06
+rs10521318,AC092723.4,,,ENSG00000285040,intron_variant,systemic lupus erythematosus,4e-06
+rs139110493,HIP1,,,ENSG00000127946,intron_variant,systemic lupus erythematosus,1e-12
+rs5986948,TMEM187 - IRAK1,ENSG00000184216,ENSG00000177854,,intergenic_variant,systemic lupus erythematosus,4e-10
+rs1128334,ETS1,,,ENSG00000134954,3_prime_UTR_variant,systemic lupus erythematosus,7e-12
+rs2647012,HLA-DQB1 - MTCO3P1,ENSG00000237145,ENSG00000231286,,intergenic_variant,"systemic lupus erythematosus, lupus nephritis",3e-07
+rs9267972,NOTCH4 - TSBP1-AS1,ENSG00000225914,ENSG00000204301,,intergenic_variant,"systemic lupus erythematosus, lupus nephritis",2e-06
+rs4917385,ST13P13 - RPEL1,ENSG00000235376,ENSG00000229256,,regulatory_region_variant,systemic lupus erythematosus,1e-08
+rs181502228,CDK18 - RNU2-19P,ENSG00000253097,ENSG00000117266,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs10254284,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,8e-06
+rs4641121,KDM4C,,,ENSG00000107077,intron_variant,systemic lupus erythematosus,8e-06
+rs10032909,LINC01088,,,ENSG00000249307,intron_variant,systemic lupus erythematosus,1e-06
+rs12736195,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,7e-11
+rs3862260,HSD3BP5 - ZNF697,ENSG00000143067,ENSG00000198857,,regulatory_region_variant,systemic lupus erythematosus,7e-06
+rs2797780,LINC02520 - AL353597.2,ENSG00000229559,ENSG00000204110,,regulatory_region_variant,systemic lupus erythematosus,5e-06
+rs4574684,AL078600.1 - MIR3144,ENSG00000265725,ENSG00000287100,,intergenic_variant,systemic lupus erythematosus,7e-06
+rs330048,AC022784.1,,,ENSG00000248538,intron_variant,systemic lupus erythematosus,7e-06
+rs643955,AC034111.2,,,ENSG00000286622,intron_variant,systemic lupus erythematosus,4e-07
+rs17807624,LINC00208 - AC022239.2,ENSG00000286985,ENSG00000170983,,intergenic_variant,systemic lupus erythematosus,7e-06
+rs7031325,AL162411.1,,,ENSG00000236924,intron_variant,systemic lupus erythematosus,7e-06
+rs190029011,AL159996.1 - GAS1,ENSG00000180447,ENSG00000288575,,intergenic_variant,systemic lupus erythematosus,3e-06
+rs931127,PCNX3 - SIPA1,ENSG00000213445,ENSG00000197136,,TF_binding_site_variant,systemic lupus erythematosus,7e-06
+rs7892586,PRPS2,,,ENSG00000101911,intron_variant,systemic lupus erythematosus,3e-06
+rs17301013,RABGAP1L,,,ENSG00000152061,intron_variant,systemic lupus erythematosus,8e-06
+rs1878186,SLC12A1,,,ENSG00000074803,intron_variant,systemic lupus erythematosus,1e-07
+rs11231824,SLC22A11 - SLC22A12,ENSG00000197891,ENSG00000168065,,intergenic_variant,systemic lupus erythematosus,7e-07
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,6.999999999999999e-13
+rs7708392,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs9603612,COG6,,,ENSG00000133103,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",3e-13
+rs4921283,MIR3142HG,,,ENSG00000253522,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",1e-07
+rs6568431,ATG5,,,ENSG00000057663,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",1e-07
+rs5029924,WAKMAR2,,,ENSG00000237499,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",2e-19
+rs12531711,TNPO3,,,ENSG00000064419,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",1e-23
+rs2736340,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,"rheumatoid arthritis, systemic lupus erythematosus",9e-12
+rs2283790,UBE2L3,,,ENSG00000185651,intron_variant,"rheumatoid arthritis, systemic lupus erythematosus",2.0000000000000002e-11
+rs9271366,HLA-DRB1 - HLA-DQA1,ENSG00000196735,ENSG00000206240,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs3135394,"HLA-DRA, HLA-DRA, HLA-DRA, HLA-DRA, HLA-DRA, HLA-DRA, HLA-DRA",,,"ENSG00000228987, ENSG00000206308, ENSG00000230726, ENSG00000204287, ENSG00000226260, ENSG00000227993, ENSG00000234794",intron_variant,systemic lupus erythematosus,2e-60
+rs12539741,TNPO3,,,ENSG00000064419,intron_variant,systemic lupus erythematosus,6e-31
+rs2928402,WDFY4,,,ENSG00000128815,intron_variant,systemic lupus erythematosus,1e-06
+rs7098187,FAM171A1 - ITGA8,ENSG00000077943,ENSG00000148468,,intergenic_variant,systemic lupus erythematosus,3e-06
+rs4728142,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,1e-23
+rs8105429,PGPEP1 - GDF15,ENSG00000130513,ENSG00000130517,,intergenic_variant,systemic lupus erythematosus,5e-06
+rs6590330,LINC02098 - ETS1,ENSG00000134954,ENSG00000272575,,intergenic_variant,systemic lupus erythematosus,3e-08
+rs1385374,SLC15A4,,,ENSG00000139370,intron_variant,systemic lupus erythematosus,8e-08
+rs7329174,ELF1,,,ENSG00000120690,intron_variant,systemic lupus erythematosus,6e-06
+rs13385731,RASGRP3,,,ENSG00000152689,intron_variant,systemic lupus erythematosus,4e-06
+rs10036748,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,3e-06
+rs5754217,UBE2L3,,,ENSG00000185651,intron_variant,systemic lupus erythematosus,5e-06
+rs3734266,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,1e-12
+rs12599402,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,5e-07
+rs9937837,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,7e-06
+rs4852324,DGUOK-AS1,,,ENSG00000237883,intron_variant,systemic lupus erythematosus,6e-14
+rs6804441,CD80,,,ENSG00000121594,intron_variant,systemic lupus erythematosus,3e-16
+rs4948496,ARID5B,,,ENSG00000150347,intron_variant,systemic lupus erythematosus,5e-11
+rs12822507,CREBL2,,,ENSG00000111269,intron_variant,systemic lupus erythematosus,2e-08
+rs10845606,"AC008115.2, GPR19",,,"ENSG00000257004, ENSG00000183150",intron_variant,systemic lupus erythematosus,4e-17
+rs34330,CDKN1B,,,ENSG00000111276,5_prime_UTR_variant,systemic lupus erythematosus,5.0000000000000005e-12
+rs4622329,DRAM1,,,ENSG00000136048,intron_variant,systemic lupus erythematosus,9e-12
+rs11717455,SCN10A,,,ENSG00000185313,intron_variant,systemic lupus erythematosus,7e-06
+rs12529935,AL132996.1,,,ENSG00000260271,intron_variant,systemic lupus erythematosus,9e-06
+rs12917712,SEZ6L2,,,ENSG00000174938,3_prime_UTR_variant,systemic lupus erythematosus,7e-06
+rs2303745,ABHD8,,,ENSG00000127220,intron_variant,systemic lupus erythematosus,1e-06
+rs4522865,BANK1,,,ENSG00000153064,intron_variant,systemic lupus erythematosus,5e-06
+rs2254546,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,systemic lupus erythematosus,2e-13
+rs10276619,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,intergenic_variant,systemic lupus erythematosus,6e-06
+rs729302,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,intergenic_variant,systemic lupus erythematosus,1e-09
+rs7574865,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,1.0000000000000001e-21
+rs2785197,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,intergenic_variant,systemic lupus erythematosus,2e-07
+rs9270984,HLA-DRB1 - HLA-DQA1,ENSG00000196735,ENSG00000206240,,intron_variant,systemic lupus erythematosus,5e-24
+rs742108,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,4e-06
+rs2205960,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,2.9999999999999997e-12
+rs877819,WDFY4,,,ENSG00000128815,intron_variant,systemic lupus erythematosus,8e-09
+rs2275247,KIAA0319L,,,ENSG00000142687,intron_variant,"systemic scleroderma, systemic lupus erythematosus",1e-10
+rs10498070,LINC02832 - LINC01803,ENSG00000228909,ENSG00000227308,,intergenic_variant,"systemic scleroderma, systemic lupus erythematosus",2e-07
+rs2176082,PXK,,,ENSG00000168297,intron_variant,"systemic scleroderma, systemic lupus erythematosus",5e-11
+rs3827644,ATG5,,,ENSG00000057663,intron_variant,"systemic scleroderma, systemic lupus erythematosus",5e-07
+rs1635852,JAZF1,,,ENSG00000153814,intron_variant,"systemic scleroderma, systemic lupus erythematosus",2e-08
+rs704840,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,"systemic scleroderma, systemic lupus erythematosus",4e-07
+rs16860537,LAMC2,,,ENSG00000058085,intron_variant,"systemic scleroderma, systemic lupus erythematosus",5e-06
+rs7601754,STAT4,,,ENSG00000138378,intron_variant,"systemic scleroderma, systemic lupus erythematosus",3e-11
+rs960709,TNIP1,,,ENSG00000145901,intron_variant,"systemic scleroderma, systemic lupus erythematosus",2e-08
+rs1535001,ANKS1A,,,ENSG00000064999,intron_variant,"systemic scleroderma, systemic lupus erythematosus",3e-07
+rs10499197,LINC02539 - WAKMAR2,ENSG00000237499,ENSG00000234956,,intergenic_variant,"systemic scleroderma, systemic lupus erythematosus",2e-09
+rs2736340,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,intergenic_variant,"systemic scleroderma, systemic lupus erythematosus",1e-08
+rs2396545,"PHRF1, PHRF1",,,"ENSG00000070047, ENSG00000274780",intron_variant,"systemic scleroderma, systemic lupus erythematosus",8e-06
+rs7172677,AC113208.2 - RPL36AP45,ENSG00000240366,ENSG00000252722,,intergenic_variant,"systemic scleroderma, systemic lupus erythematosus",3e-08
+rs11860650,ITGAM,,,ENSG00000169896,intron_variant,"systemic scleroderma, systemic lupus erythematosus",1e-10
+rs12711490,AC092723.5,,,ENSG00000285163,intron_variant,"systemic scleroderma, systemic lupus erythematosus",3e-10
+rs9303277,IKZF3,,,ENSG00000161405,intron_variant,"systemic scleroderma, systemic lupus erythematosus",7e-06
+rs1444766,KALRN,,,ENSG00000160145,intron_variant,"diffuse large B-cell lymphoma, systemic lupus erythematosus",1e-08
+rs1439112,MGAT5,,,ENSG00000152127,intron_variant,"marginal zone B-cell lymphoma, systemic lupus erythematosus",3e-08
+rs1444766,KALRN,,,ENSG00000160145,intron_variant,"marginal zone B-cell lymphoma, systemic lupus erythematosus",2e-08
+rs7382170,AL133405.2 - AL133405.1,ENSG00000286631,ENSG00000287347,,intergenic_variant,"marginal zone B-cell lymphoma, systemic lupus erythematosus",6e-08
+rs2941509,IKZF3,,,ENSG00000161405,3_prime_UTR_variant,"marginal zone B-cell lymphoma, systemic lupus erythematosus",2e-08
+rs6659932,IL12RB2,,,ENSG00000081985,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",6e-11
+rs6679677,PHTF1 - RSBN1,ENSG00000081019,ENSG00000116793,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",2e-28
+rs1217393,AP4B1-AS1,,,ENSG00000226167,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",5e-09
+rs2422345,AL645568.2 - AL645568.1,ENSG00000203739,ENSG00000231615,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",3e-08
+rs744600,AC006460.1,,,ENSG00000228509,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",7e-11
+rs13389408,STAT4,,,ENSG00000138378,3_prime_UTR_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",3e-17
+rs10174238,STAT4,,,ENSG00000138378,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",2.9999999999999996e-42
+rs112846137,RPL6P8 - ARL14,ENSG00000179674,ENSG00000242285,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",1e-08
+rs13101828,DGKQ,,,ENSG00000145214,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",1e-08
+rs4958880,TNIP1,,,ENSG00000145901,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",1.0000000000000001e-11
+rs2431098,MIR3142HG,,,ENSG00000253522,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",5.0000000000000005e-12
+rs802791,ATG5,,,ENSG00000057663,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",4e-12
+rs58721818,AL591468.1 - LINC02528,ENSG00000226004,ENSG00000287393,,regulatory_region_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",4.9999999999999997e-23
+rs193107685,LIMK1 - EIF4H,ENSG00000106682,ENSG00000106683,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",3e-09
+rs10954214,IRF5,,,ENSG00000128604,3_prime_UTR_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",6.999999999999999e-17
+rs13238352,TNPO3,,,ENSG00000064419,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",1e-38
+rs2736337,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",5.0000000000000005e-22
+rs7929541,SCT - DRD4,ENSG00000276825,ENSG00000070031,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",2e-10
+rs11066301,PTPN11,,,ENSG00000179295,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",4e-08
+rs35929052,AC092723.5 - AC092723.4,ENSG00000285040,ENSG00000285163,,intergenic_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",2e-09
+rs11085725,TYK2,,,ENSG00000105397,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",3e-10
+rs76246107,PRR12,,,ENSG00000126464,intron_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",3e-08
+rs5754467,YDJC - CCDC116,ENSG00000161180,ENSG00000161179,,TF_binding_site_variant,"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",1e-13
+rs3757387,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,regulatory_region_variant,systemic lupus erythematosus,1e-17
+rs332398,AL590385.2,,,ENSG00000273112,intron_variant,systemic lupus erythematosus,1e-06
+rs2205960,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,2e-07
+rs9402715,LINC00271,,,ENSG00000231028,intron_variant,systemic lupus erythematosus,5e-06
+rs2618444,AF131216.5,,,ENSG00000284957,intron_variant,systemic lupus erythematosus,7e-09
+rs9394274,TCP11,,,ENSG00000124678,intron_variant,systemic lupus erythematosus,7e-08
+rs1194,ZNF76,,,ENSG00000065029,3_prime_UTR_variant,systemic lupus erythematosus,5e-07
+rs1170436,ZFP90,,,ENSG00000184939,intron_variant,systemic lupus erythematosus,8e-07
+rs2731763,CCDC113,,,ENSG00000103021,intron_variant,systemic lupus erythematosus,1e-07
+rs7708392,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,5e-09
+rs3750310,"MSRA, MSRA",,,"ENSG00000175806, ENSG00000285250",intron_variant,systemic lupus erythematosus,8e-06
+rs229541,C1QTNF6,,,ENSG00000133466,intron_variant,systemic lupus erythematosus,2e-07
+rs10762171,CTNNA3,,,ENSG00000183230,intron_variant,systemic lupus erythematosus,4e-06
+rs56886418,"ATG5, PRDM1",,,"ENSG00000057663, ENSG00000057657",intron_variant,systemic lupus erythematosus,2e-06
+rs1590381,TCP11 - SCUBE3,ENSG00000146197,ENSG00000124678,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs10057690,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,3e-06
+rs9894206,"AC011933.4, GRB2",,,"ENSG00000265987, ENSG00000177885",intron_variant,systemic lupus erythematosus,2e-06
+rs17266594,BANK1,,,ENSG00000153064,intron_variant,systemic lupus erythematosus,5e-07
+rs1946007,LINC02098 - ETS1,ENSG00000134954,ENSG00000272575,,regulatory_region_variant,systemic lupus erythematosus,7e-06
+rs9889107,SBK1,,,ENSG00000188322,intron_variant,systemic lupus erythematosus,1e-06
+rs2431697,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,1e-12
+rs12548184,XKR6,,,ENSG00000171044,intron_variant,systemic lupus erythematosus,1e-07
+rs4795774,KSR1,,,ENSG00000141068,intron_variant,systemic lupus erythematosus,5e-06
+rs7325747,UBAC2,,,ENSG00000134882,intron_variant,systemic lupus erythematosus,4e-06
+rs73366469,AC211433.2 - AC211433.3,ENSG00000279005,ENSG00000273069,,regulatory_region_variant,systemic lupus erythematosus,3e-14
+rs7444,UBE2L3,,,ENSG00000185651,3_prime_UTR_variant,systemic lupus erythematosus,1.0000000000000001e-20
+rs74936631,RPS29P10 - RNU6-1145P,ENSG00000206973,ENSG00000226884,,intergenic_variant,systemic lupus erythematosus,1e-06
+rs7568275,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,1e-77
+rs7579944,H3P5 - LBH,ENSG00000213626,ENSG00000231712,,intergenic_variant,systemic lupus erythematosus,5e-08
+rs7597017,IL18RAP,,,ENSG00000115607,intron_variant,systemic lupus erythematosus,4e-06
+rs7726414,AC008608.1 - TCF7,ENSG00000081059,ENSG00000271128,,intergenic_variant,systemic lupus erythematosus,7e-07
+rs7795074,SKAP2,,,ENSG00000005020,intron_variant,systemic lupus erythematosus,2e-07
+rs8058578,"AC106886.6, SRCAP",,,"ENSG00000282034, ENSG00000080603",intron_variant,systemic lupus erythematosus,2e-06
+rs8072449,SLC25A19 - GRB2,ENSG00000177885,ENSG00000125454,,intergenic_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs835573,NOTCH2,,,ENSG00000134250,intron_variant,systemic lupus erythematosus,2e-07
+rs909788,ATXN1,,,ENSG00000124788,intron_variant,systemic lupus erythematosus,1e-07
+rs911263,RAD51B,,,ENSG00000182185,intron_variant,systemic lupus erythematosus,3e-08
+rs9373839,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,4e-15
+rs9852465,PDHB - AC116036.2,ENSG00000272360,ENSG00000168291,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs12928725,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,7e-22
+rs3757387,AC025594.1 - IRF5,ENSG00000128604,ENSG00000224163,,regulatory_region_variant,systemic lupus erythematosus,8e-33
+rs61839660,IL2RA,,,ENSG00000134460,intron_variant,systemic lupus erythematosus,9e-06
+rs73846279,MTCO1P6 - AC095349.1,ENSG00000212598,ENSG00000240309,,intergenic_variant,systemic lupus erythematosus,5e-07
+rs11889341,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,6e-16
+rs3828069,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,2e-09
+rs4252665,"ERBB2, MIEN1",,,"ENSG00000141736, ENSG00000141741",3_prime_UTR_variant,systemic lupus erythematosus,2e-12
+rs4355385,CLNK,,,ENSG00000109684,intron_variant,systemic lupus erythematosus,3e-06
+rs4382707,RSL24D1P4 - AL445675.1,ENSG00000270818,ENSG00000215800,,intergenic_variant,systemic lupus erythematosus,5e-07
+rs461193,LINC01511,,,ENSG00000250584,intron_variant,systemic lupus erythematosus,1e-07
+rs4637409,BANK1,,,ENSG00000153064,intron_variant,systemic lupus erythematosus,1e-17
+rs4675354,RAPH1 - AC125238.2,ENSG00000233459,ENSG00000173166,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs4739134,AC068700.2,,,ENSG00000286675,intron_variant,systemic lupus erythematosus,3e-08
+rs4810485,CD40,,,ENSG00000101017,intron_variant,systemic lupus erythematosus,1e-08
+rs489574,AP5B1,,,ENSG00000254470,3_prime_UTR_variant,systemic lupus erythematosus,7e-06
+rs4917014,AC020743.2 - AC020743.3,ENSG00000235620,ENSG00000231681,,regulatory_region_variant,systemic lupus erythematosus,3e-14
+rs5029939,TNFAIP3,,,ENSG00000118503,intron_variant,systemic lupus erythematosus,5e-29
+rs56154925,AC010327.5 - TMEM86B,ENSG00000180089,ENSG00000267649,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs564976,IL12A-AS1,,,ENSG00000244040,intron_variant,systemic lupus erythematosus,1e-10
+rs586995,CEPT1,,,ENSG00000134255,intron_variant,systemic lupus erythematosus,8e-07
+rs653178,ATXN2,,,ENSG00000204842,intron_variant,systemic lupus erythematosus,7e-09
+rs6601327,AC021242.1 - AC021242.3,ENSG00000272267,ENSG00000249050,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs6677604,CFH,,,ENSG00000000971,intron_variant,systemic lupus erythematosus,6e-06
+rs6688100,VANGL2 - SLAMF6,ENSG00000162739,ENSG00000162738,,regulatory_region_variant,systemic lupus erythematosus,4e-06
+rs6738825,PLCL1,,,ENSG00000115896,intron_variant,systemic lupus erythematosus,2e-07
+rs6869688,"AC008691.1, LINC01845",,,"ENSG00000249738, ENSG00000253298",intron_variant,systemic lupus erythematosus,4e-07
+rs6886392,RN7SKP62 - ST8SIA4,ENSG00000113532,ENSG00000207269,,intergenic_variant,systemic lupus erythematosus,4e-09
+rs6945305,ICA1,,,ENSG00000003147,intron_variant,systemic lupus erythematosus,1e-06
+rs702814,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs6681482,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,8e-07
+rs1874252,LINC02694,,,ENSG00000175779,intron_variant,systemic lupus erythematosus,9e-06
+rs2092540,"RSPH3, AL035530.2",,,"ENSG00000130363, ENSG00000271913",intron_variant,systemic lupus erythematosus,9e-06
+rs12107036,TP63,,,ENSG00000073282,intron_variant,systemic lupus erythematosus,2e-06
+rs17552904,AC020743.3 - IKZF1,ENSG00000185811,ENSG00000235620,,intergenic_variant,systemic lupus erythematosus,1e-06
+rs2041862,IFNG-AS1,,,ENSG00000255733,intron_variant,systemic lupus erythematosus,2e-07
+rs116165318,PXK,,,ENSG00000168297,intron_variant,systemic lupus erythematosus,2e-06
+rs112047269,ZNF804A - AC009315.1,ENSG00000286797,ENSG00000170396,,intergenic_variant,systemic lupus erythematosus,1e-06
+rs17881940,STAT3,,,ENSG00000168610,intron_variant,systemic lupus erythematosus,3e-06
+rs17005500,"AC027288.3, SYT1",,,"ENSG00000257894, ENSG00000067715",intron_variant,systemic lupus erythematosus,2e-07
+rs8054198,CIITA - CLEC16A,ENSG00000038532,ENSG00000179583,,TF_binding_site_variant,systemic lupus erythematosus,2e-08
+rs11845506,GALC,,,ENSG00000054983,intron_variant,systemic lupus erythematosus,5e-10
+rs13344313,LRRC25 - SSBP4,ENSG00000130511,ENSG00000175489,,regulatory_region_variant,systemic lupus erythematosus,1e-08
+rs13385731,RASGRP3,,,ENSG00000152689,intron_variant,systemic lupus erythematosus,1e-06
+rs137956,ENTHD1 - GRAP2,ENSG00000100351,ENSG00000176177,,intergenic_variant,systemic lupus erythematosus,5e-08
+rs1432296,LINC01185,,,ENSG00000228414,intron_variant,systemic lupus erythematosus,1e-08
+rs1437466,AC007389.1,,,ENSG00000204929,intron_variant,systemic lupus erythematosus,5e-06
+rs169080,KDM4B,,,ENSG00000127663,intron_variant,systemic lupus erythematosus,1e-06
+rs17484292,NMNAT2,,,ENSG00000157064,intron_variant,systemic lupus erythematosus,1e-37
+rs17630235,TRAFD1 - HECTD4,ENSG00000173064,ENSG00000135148,,intergenic_variant,systemic lupus erythematosus,3e-07
+rs2041670,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,2e-16
+rs2061831,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,1e-40
+rs2111485,FAP - IFIH1,ENSG00000115267,ENSG00000078098,,regulatory_region_variant,systemic lupus erythematosus,5.0000000000000005e-12
+rs2953898,RPS20,,,ENSG00000008988,3_prime_UTR_variant,systemic lupus erythematosus,4e-08
+rs2984920,AL390957.1,,,ENSG00000285280,intron_variant,systemic lupus erythematosus,2e-06
+rs3024493,IL10,,,ENSG00000136634,intron_variant,systemic lupus erythematosus,2e-13
+rs34572943,ITGAM,,,ENSG00000169896,intron_variant,systemic lupus erythematosus,8.999999999999999e-85
+rs34840245,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs35000415,IRF5,,,ENSG00000128604,intron_variant,systemic lupus erythematosus,9.999999999999998e-100
+rs353592,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,intergenic_variant,systemic lupus erythematosus,1e-08
+rs3733345,DGKQ,,,ENSG00000145214,3_prime_UTR_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs376072,LINC01967,,,ENSG00000235493,intron_variant,systemic lupus erythematosus,5e-06
+rs10795763,IL2RA,,,ENSG00000134460,intron_variant,systemic lupus erythematosus,2e-06
+rs10857635,WDFY4,,,ENSG00000128815,intron_variant,systemic lupus erythematosus,7.000000000000001e-10
+rs10892286,DDX6,,,ENSG00000110367,intron_variant,systemic lupus erythematosus,2e-06
+rs11117433,AC092723.4 - AC092723.3,ENSG00000285012,ENSG00000285040,,intergenic_variant,systemic lupus erythematosus,2.0000000000000002e-11
+rs11154801,AHI1,,,ENSG00000135541,intron_variant,systemic lupus erythematosus,4e-07
+rs1150755,"TNXB, TNXB, TNXB, TNXB, TNXB",,,"ENSG00000168477, ENSG00000206258, ENSG00000229353, ENSG00000233323, ENSG00000231608",intron_variant,systemic lupus erythematosus,5.9999999999999984e-117
+rs1151988,PPARG - TSEN2,ENSG00000154743,ENSG00000132170,,regulatory_region_variant,systemic lupus erythematosus,9e-06
+rs11629434,DPF3,,,ENSG00000205683,intron_variant,systemic lupus erythematosus,2e-06
+rs11724582,IL2 - IL21,ENSG00000138684,ENSG00000109471,,intergenic_variant,systemic lupus erythematosus,2e-08
+rs117846724,AC067751.1,,,ENSG00000238280,intron_variant,systemic lupus erythematosus,7e-06
+rs212407,"AL035530.2, AL035530.1",,,"ENSG00000271913, ENSG00000226032",intron_variant,systemic lupus erythematosus,2e-06
+rs2205960,TNFSF4 - AL645568.3,ENSG00000232751,ENSG00000117586,,intergenic_variant,systemic lupus erythematosus,9.999999999999999e-31
+rs2238573,ARID3A,,,ENSG00000116017,intron_variant,systemic lupus erythematosus,6e-06
+rs2431098,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,3e-21
+rs2550333,CCDC113,,,ENSG00000103021,intron_variant,systemic lupus erythematosus,3e-06
+rs11788118,"AL162394.1, AL359710.1, STX17-AS1",,,"ENSG00000234860, ENSG00000237461, ENSG00000255145",intron_variant,systemic lupus erythematosus,2e-08
+rs12068671,FASLG - SLC25A38P1,ENSG00000229785,ENSG00000117560,,intergenic_variant,systemic lupus erythematosus,7e-08
+rs12574073,LINC02098 - ETS1,ENSG00000134954,ENSG00000272575,,regulatory_region_variant,systemic lupus erythematosus,3e-14
+rs12615624,DARS1,,,ENSG00000115866,intron_variant,systemic lupus erythematosus,4e-07
+rs12636784,TMEM39A,,,ENSG00000176142,intron_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs12664535,RAB23 - PRIM2,ENSG00000146143,ENSG00000112210,,intergenic_variant,systemic lupus erythematosus,6e-07
+rs13280095,PVT1,,,ENSG00000249859,intron_variant,systemic lupus erythematosus,2e-07
+rs2299864,ATG5,,,ENSG00000057663,intron_variant,systemic lupus erythematosus,6e-15
+rs7582694,STAT4,,,ENSG00000138378,intron_variant,systemic lupus erythematosus,4e-69
+rs10819689,"AL359710.1, STX17-AS1",,,"ENSG00000237461, ENSG00000255145",intron_variant,systemic lupus erythematosus,9e-07
+rs3122605,IL19,,,ENSG00000142224,intron_variant,systemic lupus erythematosus,1.0000000000000001e-11
+rs11578098,EVI5,,,ENSG00000067208,intron_variant,systemic lupus erythematosus,5e-07
+rs2453042,NOTCH2,,,ENSG00000134250,intron_variant,systemic lupus erythematosus,7e-06
+rs4859711,"AC107072.2, SHROOM3",,,"ENSG00000233860, ENSG00000138771",intron_variant,systemic lupus erythematosus,3e-06
+rs11227302,AP5B1 - OVOL1,ENSG00000172818,ENSG00000254470,,TF_binding_site_variant,systemic lupus erythematosus,3e-06
+rs10889681,IL12RB2,,,ENSG00000081985,intron_variant,systemic lupus erythematosus,1e-06
+rs7819602,AC011008.2 - XKR6,ENSG00000171044,ENSG00000280294,,intergenic_variant,systemic lupus erythematosus,1e-09
+rs9462027,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,2e-08
+rs10245867,JAZF1,,,ENSG00000153814,intron_variant,systemic lupus erythematosus,4e-08
+rs2548279,ST8SIA4,,,ENSG00000113532,intron_variant,systemic lupus erythematosus,2e-06
+rs1378942,CSK,,,ENSG00000103653,intron_variant,systemic lupus erythematosus,5e-06
+rs351758,ELP3,,,ENSG00000134014,intron_variant,systemic lupus erythematosus,4e-06
+rs2015407,TRAF3,,,ENSG00000131323,intron_variant,systemic lupus erythematosus,6e-06
+rs4930194,AP006288.1 - SLC22A11,ENSG00000168065,ENSG00000237363,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs62149377,PAPOLG,,,ENSG00000115421,intron_variant,systemic lupus erythematosus,9e-08
+rs6131014,RPL13P2 - CD40,ENSG00000101017,ENSG00000213820,,regulatory_region_variant,systemic lupus erythematosus,1e-07
+rs77000060,AL591468.1 - LINC02528,ENSG00000226004,ENSG00000287393,,intergenic_variant,systemic lupus erythematosus,2.0000000000000002e-29
+rs7720046,"AC008691.1, LINC01845",,,"ENSG00000249738, ENSG00000253298",intron_variant,systemic lupus erythematosus,3e-07
+rs930297,MIR3678 - RNU6-938P,ENSG00000223217,ENSG00000264511,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs12971295,LRRC25 - SSBP4,ENSG00000130511,ENSG00000175489,,regulatory_region_variant,systemic lupus erythematosus,7e-07
+rs12706861,TNPO3,,,ENSG00000064419,intron_variant,systemic lupus erythematosus,3.999999999999999e-71
+rs1170436,ZFP90,,,ENSG00000184939,intron_variant,systemic lupus erythematosus,9e-07
+rs131658,UBE2L3,,,ENSG00000185651,intron_variant,systemic lupus erythematosus,1e-16
+rs10905718,RPL32P23 - RBM17,ENSG00000134453,ENSG00000214015,,intergenic_variant,systemic lupus erythematosus,4e-06
+rs11590283,PUSL1,,,ENSG00000169972,intron_variant,systemic lupus erythematosus,1e-07
+rs4610334,SORCS2,,,ENSG00000184985,intron_variant,systemic lupus erythematosus,4e-06
+rs11887156,MGAT5,,,ENSG00000152127,intron_variant,systemic lupus erythematosus,5e-07
+rs12156002,PVT1,,,ENSG00000249859,intron_variant,systemic lupus erythematosus,3e-07
+rs1966115,AC068700.2,,,ENSG00000286675,intron_variant,systemic lupus erythematosus,1e-07
+rs2196171,PLCL1,,,ENSG00000115896,intron_variant,systemic lupus erythematosus,5e-07
+rs223883,AC108081.1 - CCL22,ENSG00000102962,ENSG00000271456,,intergenic_variant,systemic lupus erythematosus,2e-07
+rs2327832,BTF3L4P3 - AL356234.2,ENSG00000230533,ENSG00000213108,,intergenic_variant,systemic lupus erythematosus,2e-13
+rs2980512,FAM86B3P - PRAG1,ENSG00000275342,ENSG00000285119,,intergenic_variant,systemic lupus erythematosus,4e-10
+rs35789010,CARMIL1,,,ENSG00000079691,intron_variant,systemic lupus erythematosus,5e-19
+rs36014129,H2AC3P - H2BP5,ENSG00000277410,ENSG00000242387,,regulatory_region_variant,systemic lupus erythematosus,1.0000000000000001e-24
+rs4690229,DGKQ,,,ENSG00000145214,intron_variant,systemic lupus erythematosus,2e-08
+rs2732549,PDHX - AL356215.1,ENSG00000255521,ENSG00000110435,,regulatory_region_variant,systemic lupus erythematosus,1e-06
+rs71567468,UHRF1BP1,,,ENSG00000065060,intron_variant,systemic lupus erythematosus,9e-07
+rs10798176,FASLG - SLC25A38P1,ENSG00000229785,ENSG00000117560,,intergenic_variant,systemic lupus erythematosus,2e-06
+rs916287,ETV7,,,ENSG00000010030,intron_variant,systemic lupus erythematosus,6e-06
+rs7486855,IFNG-AS1,,,ENSG00000255733,intron_variant,systemic lupus erythematosus,3e-06
+rs2688608,CAMK2G - PLAU,ENSG00000122861,ENSG00000148660,,regulatory_region_variant,systemic lupus erythematosus,7e-06
+rs9652601,CLEC16A,,,ENSG00000038532,intron_variant,systemic lupus erythematosus,6e-13
+rs2431697,MIR3142HG,,,ENSG00000253522,intron_variant,systemic lupus erythematosus,4e-14
+rs2663054,"WDFY4, AC060234.3",,,"ENSG00000128815, ENSG00000241577",intron_variant,systemic lupus erythematosus,1e-08
+rs11117431,AC092723.4,,,ENSG00000285040,intron_variant,systemic lupus erythematosus,6e-11
+rs112006329,"CDHR5, CDHR5",,,"ENSG00000099834, ENSG00000273572",3_prime_UTR_variant,systemic lupus erythematosus,1e-16
+rs4426778,BANK1,,,ENSG00000153064,intron_variant,systemic lupus erythematosus,1e-12
+rs34725611,TYK2,,,ENSG00000105397,intron_variant,systemic lupus erythematosus,4.9999999999999997e-23
+rs147622113,ILF3,,,ENSG00000129351,intron_variant,systemic lupus erythematosus,7e-06
+rs6679677,PHTF1 - RSBN1,ENSG00000081019,ENSG00000116793,,intergenic_variant,systemic lupus erythematosus,2e-23
+rs2736336,AF131216.5 - BLK,ENSG00000136573,ENSG00000284957,,regulatory_region_variant,systemic lupus erythematosus,6e-32
+rs180977001,AC098479.1 - PXK,ENSG00000168297,ENSG00000273493,,regulatory_region_variant,systemic lupus erythematosus,2e-08
+rs12575600,LINC02098 - ETS1,ENSG00000134954,ENSG00000272575,,intergenic_variant,systemic lupus erythematosus,6e-10
+rs223889,AC108081.1 - CCL22,ENSG00000102962,ENSG00000271456,,regulatory_region_variant,systemic lupus erythematosus,1e-08
+rs6662618,RN7SL824P - GFI1,ENSG00000162676,ENSG00000242764,,intergenic_variant,systemic lupus erythematosus,1e-07
+rs10036748,TNIP1,,,ENSG00000145901,intron_variant,systemic lupus erythematosus,2e-34
+rs1039917,"MFHAS1, MFHAS1",,,"ENSG00000285022, ENSG00000147324",intron_variant,systemic lupus erythematosus,3e-07
+rs1439112,MGAT5,,,ENSG00000152127,intron_variant,"systemic lupus erythematosus, chronic lymphocytic leukemia",7e-09
+rs13069553,MYNN - LRRC34,ENSG00000171757,ENSG00000085274,,intergenic_variant,"systemic lupus erythematosus, chronic lymphocytic leukemia",2e-09
+rs10069690,TERT,,,ENSG00000164362,intron_variant,"systemic lupus erythematosus, chronic lymphocytic leukemia",5e-09
+rs7941765,AP001122.1,,,ENSG00000245008,intron_variant,"systemic lupus erythematosus, chronic lymphocytic leukemia",1e-08
